@@ -16,7 +16,7 @@ As duas pessoas jogam simultaneamente, escolhendo uma das três opções. Em seg
 
 ### Passo 1: executar o pyro4-ns
 
-1. Abra o gerenciador de arquivos e busque por "pyro4-ns.exe"
+1. Abra o gerenciador de arquivos e busque por "pyro4-ns.exe" e execute-o
 
 ### Passo 2: Iniciando o Servidor do jogo
 
